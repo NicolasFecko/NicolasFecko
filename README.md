@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello, I am a high school student of SPŠE Prešov in Slovakia. <br>I study Networks, Cybersecurity and development of all sorts like Web Development, <br>Mobile app development and more. In my learning journey I came accross all sorts of stuff.<br> I do and create anything that interests me.<br><br>I am currently making a robot for RoboCup 2025
+Hello, I am a 15yo high school student of SPŠE Prešov in Slovakia. <br>I study Networks, Cybersecurity and development of all sorts like Web Development, <br>Mobile app development and more. In my learning journey I came accross all sorts of stuff.<br> I do and create anything that interests me.<br><br>I am currently making a robot for RoboCup 2025
 
 
 ## 🌐 Socials:
